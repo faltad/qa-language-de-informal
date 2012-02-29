@@ -64,6 +64,13 @@
 		'permit_vote_a' => "Antworten bewerten",
 		'permit_vote_q' => "Fragen bewerten",
 		'send_private_message' => " - ^1Private Nachrichten verschicken^2",
+		'bonus_points' => "Bonuspunkte:",
+		'permit_close_q' => "Beliebige Fragen schließen",
+		'permit_moderate' => "Beiträge akzeptieren oder ablehnen",
+		'permit_recat' => "Kategorie von beliebigen Fragen ändern",
+		'permit_retag' => "Tags von beliebigen Fragen ändern",
+		'permit_vote_down' => "Beiträge negativ bewerten",
+		'set_bonus_button' => "Bonus aktualisieren",
 	);
 
 

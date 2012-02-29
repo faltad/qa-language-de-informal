@@ -58,6 +58,9 @@
 		'private_message_info' => "Mehr Informationen über ^f_handle:\n^url\n\n",
 		'private_message_reply' => "Klicke auf den Link, um ^f_handle mit einer privaten Nachricht zu antworten:\n^url\n\n",
 		'private_message_subject' => "Nachricht von ^f_handle auf ^site_title",
+		'moderate_body' => "Ein Beitrag von ^p_handle erfordert deine Freigabe:\n\n^open^p_context^close\n\nKlicke auf diesen Link, um den Beitrag freizugeben oder abzulehnen:\n\n^url\n\nDanke sehr,\n\n^site_title",
+		'moderate_subject' => '^site_title Moderation',
+		'to_handle_prefix' => "^,\n\n",
 	);
 
 
