@@ -1,11 +1,11 @@
 <?php
-	
+
 /*
 	Question2Answer 1.4 (c) 2011, Gideon Greenspan
 
 	http://www.question2answer.org/
 
-	
+
 	File: qa-lang/de-DU/qa-lang-main.php
 	Version: 1.4
 	Date: 2011-06-25
@@ -16,7 +16,7 @@
 	modify it under the terms of the GNU General Public License
 	as published by the Free Software Foundation; either version 2
 	of the License, or (at your option) any later version.
-	
+
 	This program is distributed in the hope that it will be useful,
 	but WITHOUT ANY WARRANTY; without even the implied warranty of
 	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
@@ -166,7 +166,7 @@
 		'x_users' => "^ Nutzer",
 		'x_views' => "^ Aufrufe",
 	);
-	
+
 
 /*
 	Omit PHP closing tag to help avoid accidental output
