@@ -62,7 +62,7 @@
 		'nav_account' => 'Mein Konto',
 		'nav_activity' => 'Alle Aktivitäten',
 		'nav_ask' => 'Frage stellen',
-		'nav_categories' => '',
+		'nav_categories' => 'Kategorien',
 		'nav_feedback' => 'Feedback geben',
 		'nav_qa' => 'Q&A',
 		'nav_qs' => 'Alle Fragen',
